@@ -42,4 +42,4 @@ Soy Junior Data Analyst en transición desde Administración de Empresas y Recur
 
 ## 📫 Contacto
 - **Email:** egarciacortes@gmail.com  
-- **LinkedIn:** [Esperanza García](https://www.linkedin.com/in/esperanza-garciac)
+- **LinkedIn:** (https://www.linkedin.com/in/esperanza-garciac)

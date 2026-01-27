@@ -18,7 +18,7 @@ Soy Junior Data Analyst en transición desde Administración de Empresas y Recur
 ---
 
 ## 📌 Proyectos destacados
-- 🔹 [Portafolio Profesional](https://tu-usuario.github.io)
+- 🔹 [Portafolio Profesional](https://github.com/Esperanzag-18)
 - 🔹 [Proyecto 1](https://github.com/tu-usuario/proyecto1)
 - 🔹 [Proyecto 2](https://github.com/tu-usuario/proyecto2)
 

@@ -1,73 +1,44 @@
-Hola! Soy Esperanza García Cortes 👋
-Analista de Datos Junior | Análisis de Datos e Inteligencia de Negocios
-Soy profesional en Administración de Empresas, con más de 10 años de experiencia en Recursos Humanos, nómina, servicio al cliente y procesos administrativos y financieros.
+# 👋 ¡Hola! Soy Esperanza García
 
-Actualmente estoy enfocando mi carrera en el análisis de datos, combinando mi experiencia empresarial con herramientas tecnológicas para transformar información en conocimiento útil para la toma de decisiones.
+### Analista de Datos | Data Analyst
 
-Me interesa analizar datos, identificar tendencias, encontrar oportunidades de mejora y desarrollar soluciones que permitan optimizar procesos y generar valor para las empresas.
+Bienvenido/a a mi perfil de GitHub.
 
-🛠️ Herramientas y tecnologías
-Lenguajes y análisis de datos
+Soy una profesional con más de 10 años de experiencia en áreas de Recursos Humanos, Nómina, Servicios Financieros y Atención al Cliente.
 
-Python
-Pandas
-NumPy
-Bases de datos
+Actualmente estoy enfocada en el análisis de datos, combinando mi experiencia empresarial con herramientas tecnológicas para transformar información en conocimientos que faciliten la toma de decisiones.
 
-SQL
-Visualización y Business Intelligence
+## 🚀 Mi Portafolio Profesional
 
-Power BI
-Tableau
-Hojas de cálculo y análisis
+### 📊 Explora mis proyectos de análisis de datos
 
-Microsoft Excel
-Google Sheets
-📊 Mis proyectos
-En este portafolio encontrarás proyectos prácticos de análisis de datos, enfocados en resolver problemas empresariales y obtener conclusiones a partir de la información.
+[**🌐 VER MI PORTAFOLIO PROFESIONAL**](https://esperanzag-18.github.io/Portafolio/)
 
-🐍 Python
-Limpieza y transformación de datos.
-Análisis exploratorio de datos.
-Segmentación de clientes.
-Análisis de comportamiento y resultados comerciales.
-📈 Power BI y Tableau
-Creación de dashboards.
-Visualización de indicadores de gestión (KPI).
-Análisis de resultados empresariales.
-Presentación de información para apoyar la toma de decisiones.
-🗄️ SQL
-Consultas y extracción de información.
-Filtrado y organización de datos.
-Análisis de bases de datos.
-📑 Excel y Google Sheets
-Organización y limpieza de información.
-Fórmulas y funciones.
-Análisis y elaboración de reportes.
-Automatización y optimización de tareas.
-Cada proyecto contará con su propia descripción, herramientas utilizadas, objetivos y resultados.
+En mi portafolio encontrarás proyectos prácticos de análisis de datos, visualización y resolución de problemas empresariales.
 
-💼 Mi experiencia profesional
-Mi trayectoria en áreas administrativas y de Recursos Humanos me ha permitido desarrollar habilidades que hoy aplico al análisis de datos:
+## 🛠️ Herramientas y tecnologías
 
-Análisis y organización de información.
-Gestión de nómina y procesos administrativos.
-Atención al cliente y resolución de problemas.
-Seguimiento de indicadores y procesos.
-Identificación de oportunidades de mejora.
-Pensamiento analítico y orientación a resultados.
-🎯Mi objetivo profesional
+- Python
+- SQL
+- PostgreSQL
+- Power BI
+- Tableau
+- Excel
+- Pandas
+- NumPy
+- Jupyter Notebook
 
-Desarrollarme como Analista de Datos, participando en proyectos donde pueda combinar el conocimiento del negocio con el análisis de información, la visualización de datos y la mejora de procesos.
+## 🎯 Mi objetivo profesional
 
-Me encuentro en constante aprendizaje y desarrollo de proyectos prácticos para fortalecer mis habilidades técnicas y aportar soluciones basadas en datos.
+Desarrollarme como Data Analyst, aportando capacidad analítica, pensamiento crítico y experiencia empresarial para convertir datos en soluciones de valor.
 
-📫 Contacto
+## 📬 Conectemos
 
-GitHub: Esperanzag-18
+- **GitHub:** [Esperanza García](https://github.com/Esperanzag-18)
+- **Portafolio:** [Visitar mi portafolio](https://esperanzag-18.github.io/Portafolio/)
 
-Correo: egarciacortes@gmail.com
+---
 
-LinkedIn: [Agregar perfil de LinkedIn]
+*Gracias por visitar mi perfil. ¡Te invito a conocer mis proyectos!*
 
-⭐ Transformando datos en información y conocimiento para tomar mejores decisiones.
+**Esperanza García | Data Analytics Portfolio | 2026**
